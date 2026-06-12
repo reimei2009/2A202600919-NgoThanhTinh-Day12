@@ -2,7 +2,7 @@
 
 ## Public URL
 
-`PENDING: replace with the Railway or Render public URL`
+https://2a202600919-ngothanhtinh-day12-production.up.railway.app
 
 ## Platform
 
@@ -122,7 +122,7 @@ Generate secrets locally without saving them to the repository:
 After deployment:
 
 ```powershell
-$url = "https://YOUR-SERVICE-DOMAIN"
+$url = "https://2a202600919-ngothanhtinh-day12-production.up.railway.app"
 $key = "YOUR-AGENT-API-KEY"
 
 Invoke-RestMethod "$url/health"
@@ -156,12 +156,10 @@ Invoke-RestMethod `
 
 ## Screenshots Required
 
-Add these files after manual deployment:
+Deployment evidence:
 
 - `screenshots/deployment-dashboard.png`
 - `screenshots/service-running.png`
-- `screenshots/public-health-test.png`
-- `screenshots/authenticated-api-test.png`
+- `screenshots/test-result.png`
 
 Do not include API keys, Redis passwords, or other secrets in screenshots.
-
